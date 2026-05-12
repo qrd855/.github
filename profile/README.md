@@ -1,4 +1,7 @@
-## QRD855 (Enginer sample from Qualcomm)
+
+| | |
+| :--- | :--- |
+| ## QRD855 (Enginer sample from Qualcomm) | ![](photo_2026-05-12_16-56-13.jpg) |
 
 
 📃: [Google tables document of information of this device](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
