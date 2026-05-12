@@ -5,11 +5,11 @@
 
 - [ ] Mainline linux kernel
 
-- [x] Downstream linux kernel
+- [x] Downstream linux kernel (by dev1qsion)
 
-- [x] Woa (Windows on android), WINPE booted
+- [x] Woa (Windows on android), WINPE booted (by gmdarmatura1)
 
-- [x] Linux boot
+- [x] Linux boot (by dev1qsion and gmdaramtura1)
 
 [TELEGRAM](https://t.me/qrd855)
 [TELEGRAM](https://t.me/qrd855)
