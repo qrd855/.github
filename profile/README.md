@@ -7,7 +7,7 @@
 
 - [x] Downstream linux kernel
 
-- [ ] Woa (Windows on android)
+- [x] Woa (Windows on android), WINPE booted
 
 - [x] Linux boot
 
