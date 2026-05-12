@@ -1,5 +1,5 @@
 
-<img src="photo_2026-05-12_16-56-13.jpg" align="right" width="600">
+<img src="photo_2026-05-12_16-56-13.jpg" align="right" width="400">
 <h3>QRD855</h3> (Enginer sample from Qualcomm)
 
 
