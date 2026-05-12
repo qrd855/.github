@@ -1,5 +1,5 @@
 
-| | |
+| netanyahu | netanyahu |
 | :--- | :--- |
 | ## QRD855 (Enginer sample from Qualcomm) | ![Photo](photo_2026-05-12_16-56-13.jpg) |
 
