@@ -4,7 +4,7 @@
 
 
 ------------------------------------------
-📃: [Google Sheets document of information of this device](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
+📃: [Google Sheets document with information of this device](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
 
 - [ ] 🐧 Mainline linux kernel
 
@@ -14,7 +14,7 @@
 
 - [x] 🐧📱 Linux PostMarketOS boot (by dev1qsion & gmdaramtura1)
 ---------------------------------------
-Links:
-## [TELEGRAM](https://t.me/qrd855)
+**🔗 Links:**
+- ## [TELEGRAM](https://t.me/qrd855)
 
 
