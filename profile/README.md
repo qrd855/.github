@@ -12,7 +12,7 @@
 
 - [x] 🪟 Woa (Windows on android), WINPE booted (by gmdarmatura1)
 
-- [x] 🐧📱 Linux boot (by dev1qsion and gmdaramtura1)
+- [x] 🐧📱 Linux boot (by dev1qsion & gmdaramtura1)
 ---------------------------------------
 Links:
 ## [TELEGRAM](https://t.me/qrd855)
