@@ -4,15 +4,17 @@
 
 
 ------------------------------------------
-📃: [Google Sheets document with information of this device](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
+**📋 [Google Sheets — Device information](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
 
-- [ ] 🐧 Mainline linux kernel
+- ## Project Status:
 
-- [x] 🐧⏬ Downstream linux kernel (by dev1qsion)
+- [ ] ###🐧 Mainline linux kernel
 
-- [x] 🪟 WOA (Windows on ARM), WINPE booted (by gmdarmatura1)
+- [x] ###🐧⏬ Downstream linux kernel (by dev1qsion)
 
-- [x] 🐧📱 Linux PostMarketOS boot (by dev1qsion & gmdaramtura1)
+- [x] ### 🪟 WOA (Windows on ARM), WINPE booted (by gmdarmatura1)
+
+- [x] ### 🐧📱 Linux PostMarketOS boot (by dev1qsion & gmdaramtura1)
 ---------------------------------------
 **🔗 Links:**
 - ## [TELEGRAM](https://t.me/qrd855)
