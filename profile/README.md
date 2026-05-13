@@ -14,12 +14,7 @@
 
 - [x] 🐧📱 Linux boot (by dev1qsion and gmdaramtura1)
 ---------------------------------------
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
-[TELEGRAM](https://t.me/qrd855)
+Links:
+## [TELEGRAM](https://t.me/qrd855)
+
 
