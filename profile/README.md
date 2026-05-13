@@ -8,13 +8,13 @@
 
 - ## Project Status:
 
-- [ ] ###🐧 Mainline linux kernel
+- [ ] 🐧 Mainline linux kernel
 
-- [x] ###🐧⏬ Downstream linux kernel (by dev1qsion)
+- [x] 🐧⏬ Downstream linux kernel (by dev1qsion)
 
-- [x] ### 🪟 WOA (Windows on ARM), WINPE booted (by gmdarmatura1)
+- [x] 🪟 WOA (Windows on ARM), WINPE booted (by gmdarmatura1)
 
-- [x] ### 🐧📱 Linux PostMarketOS boot (by dev1qsion & gmdaramtura1)
+- [x] 🐧📱 Linux PostMarketOS boot (by dev1qsion & gmdaramtura1)
 ---------------------------------------
 **🔗 Links:**
 - ## [TELEGRAM](https://t.me/qrd855)
