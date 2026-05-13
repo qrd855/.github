@@ -4,7 +4,7 @@
 
 
 ------------------------------------------
-**📋 [Google Sheets — Device information](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
+** 📋 [Google Sheets — Device information](https://docs.google.com/spreadsheets/d/1JIjYHzJn0u3EdQyj9YVl3zGJn1ZMdcGG4T-iZdkqwig/edit?usp=sharing)
 
 - ## Project Status:
 
